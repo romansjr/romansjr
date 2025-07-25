@@ -1,7 +1,8 @@
 # About romansjr (or Sarah)
 
 ## UPDATE
-I'm learning on codecademy plus freecodecamp!
+- I'm learning on codecademy plus freecodecamp!
+- I'm also learning Spanish via Duolingo!
 
 ### So who am I?
 - born and raised in NYC!
