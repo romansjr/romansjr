@@ -1,10 +1,9 @@
 # About romansjr (or Sarah)
 
 
-## UPDATE as of 8/24/2026
-- Life has been difficult...
+## UPDATE as of 11/12/2026
 - Not sure what I want to learn as of now. 
-- I'm interested in Information Technology and Cybersecurity as I need something long-term for myself and my future family.
+- back to coding?
 
 ~~## UPDATE as of 4/16/2026~~
 ~~- I'm learning on Codedex.io~~
@@ -19,6 +18,6 @@
 
 ### My interests
 - food! Going to new places around the city and even out of the city. My favorite cuisines include Caribbean, Mexican and American!
-- video games! I've been hooked on Nintendo ever since I could hold a controller. Shy Guy, Wario and Meowscles from Fortnite are my favorite video game characters!
+- video games! I've been hooked on Nintendo ever since I could hold a controller. As of now, my favorite video game is The Legend of Zelda Ocarina of Time on the Switch 2!
 - baseball! Working at MLB renewed my passion for the sport and introduced me to other teams and their cultures, other than the Yankees! Let's go Yankees!
 
